@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise — Smart Expense Manager",
+  "description": "Track income, daily expenses, monthly budgets, savings goals, and financial habits in one intuitive dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
